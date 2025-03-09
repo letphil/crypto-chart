@@ -160,7 +160,3 @@ setInterval(() => {
 1️⃣ Modify the chart to show **Ethereum prices**  
 2️⃣ Add **Bootstrap cards** to display additional coin data  
 3️⃣ Change the chart type to a **bar chart**
-
----
-
-This **1.5-hour lesson** will teach **Bootstrap basics, Chart.js, and real-time crypto data fetching**, all while keeping it practical and hands-on. Let me know if you want any modifications! 🚀
