@@ -1,10 +1,4 @@
-Here's a structured **1.5-hour lesson plan** on using **Chart.js** with **Coinbase API data** while introducing **Bootstrap** and **Canvas**.
-
----
-
 # **📚 Lesson Plan: Building a Crypto Chart with Chart.js and Coinbase API**
-
-### **⏳ Duration: 1.5 Hours**
 
 ---
 
