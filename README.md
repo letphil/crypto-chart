@@ -22,6 +22,7 @@ By the end of this lesson, you will:
 
 ## **📖 Lesson Breakdown**
 
+
 ### **1️⃣ Bootstrap Overview**
 
 - Introduce **Bootstrap** as a CSS framework for quick styling
@@ -157,6 +158,7 @@ setInterval(() => {
 
 ## **📝 Homework**
 
-1️⃣ Modify the chart to show **Ethereum prices**  
-2️⃣ Add **Bootstrap cards** to display additional coin data  
+1️⃣ Modify the chart to show **Ethereum prices**
+2️⃣ Add **Bootstrap cards** to display additional coin data
 3️⃣ Change the chart type to a **bar chart**
+````

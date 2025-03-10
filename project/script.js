@@ -10,7 +10,7 @@ const coinbaseApi = axios.create({
 
 // change this aray to get different charts
 // array to run loop to get prices and display
-const coins = ["bitcoin", "solana"];
+const coins = ["ethereum", "doge", "solana", "algorand"];
 
 // function to paint charts onto DOM
 async function makeCharts() {
